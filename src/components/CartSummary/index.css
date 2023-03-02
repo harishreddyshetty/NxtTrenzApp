@@ -1,0 +1,33 @@
+/* Write your CSS here */
+
+.order-total-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.order-total {
+  font-size: 18px;
+  color: #616e7c;
+}
+
+.price {
+  font-size: 25px;
+  color: #171f46;
+}
+
+.items-quantity {
+  font-size: 15px;
+  color: #616e7c;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.check-out-btn {
+  width: 200px;
+  height: 35px;
+  border: 0px none;
+  color: white;
+  background-color: #0b69ff;
+  border-radius: 8px;
+}
